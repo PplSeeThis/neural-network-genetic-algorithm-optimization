@@ -41,7 +41,7 @@ The evolution of the best accuracy across generations is shown below.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/PplSeeThis/neural-network-genetic-algorithm-optimization.git](https://github.com/PplSeeThis/neural-network-genetic-algorithm-optimization.git)
+    git clone https://github.com/PplSeeThis/neural-network-genetic-algorithm-optimization.git
     cd neural-network-genetic-algorithm-optimization
     ```
 2.  **Create and activate a virtual environment.**

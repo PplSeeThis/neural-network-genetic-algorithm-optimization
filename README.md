@@ -35,7 +35,7 @@ The Genetic Algorithm successfully identified a superior set of hyperparameters,
 
 The evolution of the best accuracy across generations is shown below.
 
-![Evolution of Best Accuracy](https://storage.googleapis.com/agent-tools-public-bucket/hosted_tools_images/635d0383-7c06-47b2-bd74-32f2c8d28e75.png)
+![Evolution of Best Accuracy](img/Evolution of best accuracy.png)
 
 ## 🚀 How to Run
 
